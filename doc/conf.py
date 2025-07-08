@@ -8,7 +8,7 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../src'))
+sys.path.insert(0, os.path.abspath('../src')) #importante direccion a carpeta que se quiere comentar
 
 project = 'Prueba sphinx'
 copyright = '2025, Mauricio Almada'
