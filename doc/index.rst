@@ -14,6 +14,5 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   modules1
-   modules2
+   modules
 
